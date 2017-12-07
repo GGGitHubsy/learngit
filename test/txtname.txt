@@ -1,5 +1,6 @@
 新建文件夹 mkdir filename
 进入文件夹 cd filename
-初始化git仓库  git init
 添加txt文件 git add txtname
 git ssss
+git addd 
+mijbs
